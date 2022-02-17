@@ -5,7 +5,7 @@
 - 💬 Ask me about Web designing stuff
 - 📫 How to reach me **a4ayush2gupta@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushkrsah511&&show_icons=true&title_color=fffff&icon_color=26B315&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushguptasah&&show_icons=true&title_color=fffff&icon_color=26B315&text_color=daf7dc&bg_color=151515">
 
 ## Let's Connect 👥:
 <a href="https://www.linkedin.com/in/ayushguptasah/">
