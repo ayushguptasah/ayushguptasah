@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/ayushguptasah/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-<a href="https://mail.google.com/ayushguptasah99@gmail.com">
+<a href="mailto:ayushguptasah99@gmail.com">
    <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>&ensp;
 <a href="https://www.instagram.com/ayushgupta.sah/">
