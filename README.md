@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/ayushgupta.sah/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
-<a href="https://www.facebook.com/ayushkrsahh/">
+<a href="https://www.facebook.com/ayushgupta.sahh/">
   <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>&ensp;
 <a href="https://t.me/ayushguptasah">
