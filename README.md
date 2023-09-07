@@ -3,7 +3,8 @@
 - 🔭 I’m currently intern at **KodNest.**
 - 📫 How to reach me **ayushguptasah99@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushguptasah&&show_icons=true&title_color=fffff&icon_color=26B315&text_color=daf7dc&bg_color=151515">
+| <a href="https://github.com/ayushguptasah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushguptasah&show_icons=true&include_all_commits=true&theme=Blue-Green&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/ayushguptasah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushguptasah&layout=compact&theme=Blue-Green&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Let's Connect 🫱🏻‍🫲🏻:
 <a href="https://www.linkedin.com/in/ayushguptasah/">
