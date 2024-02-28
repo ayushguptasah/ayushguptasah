@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Ayush! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently intern at **KodNest.**
+- 🔭 I’m currently Software Developer at **Simsy Ventures.**
 - 📫 How to reach me **ayushguptasah99@gmail.com**
 
 | <a href="https://github.com/ayushguptasah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushguptasah&show_icons=true&include_all_commits=true&theme=Blue-Green&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/ayushguptasah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushguptasah&layout=compact&theme=Blue-Green&hide_border=true" /></a> |
